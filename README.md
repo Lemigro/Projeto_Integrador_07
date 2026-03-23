@@ -94,10 +94,10 @@ O projeto se baseia em conceitos de:
 
 # Autores
 
-Pedro H. A. Nascimento
-Laila Maria Silva Pereira
-Yago Barbosa de Andrade Oliveira
-José Luiz Henrique Pereira 
+- Pedro H. A. Nascimento
+- Laila Maria Silva Pereira
+- Yago Barbosa de Andrade Oliveira
+- José Luiz Henrique Pereira 
 
 # Repositório
 
